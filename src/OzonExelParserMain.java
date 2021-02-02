@@ -1,5 +1,5 @@
-import entities.OzonFileReader;
-import entities.OzonFileWriter;
+import utils.OzonFileReader;
+import utils.OzonFileWriter;
 
 import java.io.IOException;
 
