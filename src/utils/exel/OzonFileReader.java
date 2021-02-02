@@ -1,4 +1,4 @@
-package utils;
+package utils.exel;
 
 import entities.OzonData;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
@@ -16,6 +16,7 @@ import java.util.Iterator;
 public class OzonFileReader {
 
     private ArrayList<OzonData> list = new ArrayList();
+
 
     public OzonFileReader() throws IOException {
 
